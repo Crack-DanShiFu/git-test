@@ -4,9 +4,8 @@ import requests
 import os
 import openpyxl
 
-# 添加到excel
-
-# as
+# 添加到exce
+# asasasavnnn   sndskadkas sa
 def write_excel_xlsx_append(path, value_list=[[]]):
     # 判断文件是否存在
     if not os.path.exists(path):
